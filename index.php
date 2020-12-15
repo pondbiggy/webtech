@@ -16,7 +16,7 @@
 
 <a href="https://www.cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาการข้อมูล
 <br>
-<img src="href="https://thedatascientist.com/wp-content/uploads/2019/06/what-is-data-science.jpg width="700" height="600"> </a>
+<img src="https://thedatascientist.com/wp-content/uploads/2019/06/what-is-data-science.jpg" width="700" height="600"> </a>
   
 
 
