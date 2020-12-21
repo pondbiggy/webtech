@@ -1,13 +1,20 @@
 <!DOCTYPE html>
 <html lang='th'> 
   <head>
+  <style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
    <meta charset="UTF-8"> 
 	 <title>Jiraphat Thongyoo </title>
   <head>
 
   <body>
-    <h1>สวัสดี ศิลปากร</h1>
-    <h2>Web Technology for Data Science</h2>
+    <h1>Profile</h1>
+    <h2>Jiraphat  Thongyoo</h2>
 
 <p>ชื่อหลักสูตร</p>
 <p>ภาษาไทย หลักสูตรวิทยาศาสตรบัณฑิตสาขาวิชาวิทยาการข้อมูล </p>
