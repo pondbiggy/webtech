@@ -2,7 +2,7 @@
 <html lang='th'> 
   <head>
    <meta charset="UTF-8"> 
-	 <title>ทดสอบ HTML </title>
+	 <title>Jiraphat Thongyoo </title>
   <head>
 
   <body>
