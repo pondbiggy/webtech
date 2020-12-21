@@ -26,7 +26,7 @@
                     <a href="#">Ball</a>
                 </li>
                 <li>
-                    <a href="https://beewebtech.herokuapp.com/">Bee</a>
+                    <a href="bee.html">Bee</a>
                 </li>
                 <li>
                     <a href="jib.html">Jib</a>
@@ -69,7 +69,7 @@
                     <h1>Phanthipha Makchiao</h1>
                     <p>620710161<br>Data Science</p>
              
-                    <a href="https://beewebtech.herokuapp.com/"><button>...Click...</button><br></a>
+                    <a href="bee.html"><button>...Click...</button><br></a>
                 </div>
             
                 <img src="p22.jpg" alt="">
