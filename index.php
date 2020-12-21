@@ -26,7 +26,7 @@
                     <a href="#">Ball</a>
                 </li>
                 <li>
-                    <a href="#">Bee</a>
+                    <a href="https://beewebtech.herokuapp.com/">Bee</a>
                 </li>
                 <li>
                     <a href="#">Jib</a>
@@ -65,10 +65,12 @@
         <div class="container">
             <div class="info2_area">
                 <div class="info2_text">
-                    <h1>Phanthipha Makchiao</h1>
+                    <a href="https://beewebtech.herokuapp.com/">
+                    <h1>Phanthipha Makchiao</h1></a>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
                 </div>
-                <img src="p22.jpg" alt="">
+                <a href="https://beewebtech.herokuapp.com/">
+                <img src="p22.jpg" alt=""></a>
             </div>
         </div>
     </section>
