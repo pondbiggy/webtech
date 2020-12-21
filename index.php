@@ -65,9 +65,9 @@
         <div class="container">
             <div class="info2_area">
                 <div class="info2_text">
-                    <a href="https://beewebtech.herokuapp.com/">
-                    <h1>Phanthipha Makchiao</h1></a>
+                    <h1>Phanthipha Makchiao</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
+                    <a href="https://beewebtech.herokuapp.com/"><button>send</button><br></a>
                 </div>
                 <a href="https://beewebtech.herokuapp.com/">
                 <img src="p22.jpg" alt=""></a>
