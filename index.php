@@ -16,7 +16,7 @@
     <div class="menubar">
         <div class="container">
             <div class="logo">
-                <h1>Members</h1>
+                <h1>Hovercraft Group</h1>
             </div>
             <ul class="menu">
                 <li>
@@ -29,10 +29,10 @@
                     <a href="https://beewebtech.herokuapp.com/">Bee</a>
                 </li>
                 <li>
-                    <a href="#">Jib</a>
+                    <a href="https://apatsara.herokuapp.com/">Jib</a>
                 </li>
                 <li>
-                    <a href="#">Phai</a>
+                    <a href="https://phazanicwebtech.herokuapp.com/">Phai</a>
                 </li>
             </ul>
         </div>
@@ -43,8 +43,8 @@
     <header class="header">
         <div class="container">
             <div class="header_area">
-                <h1>Welcome to My Group</h1>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
+                <h1>Welcome to Hovercraft Group</h1>
+                <p>DS-WebTechnology63</p>
             </div>
         </div>
     </header>
@@ -56,6 +56,7 @@
                 <div class="info1_text">
                     <h1>Jiraphat Thongyoo</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
+                    <a href="https://beewebtech.herokuapp.com/"><button>...Click...</button><br></a>
                 </div>
             </div>
         </div>
@@ -68,10 +69,10 @@
                     <h1>Phanthipha Makchiao</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
              
-                    <a href="https://beewebtech.herokuapp.com/"><button>...Click...</button><br></a></div>
+                    <a href="https://beewebtech.herokuapp.com/"><button>...Click...</button><br></a>
                 </div>
-                <a href="https://beewebtech.herokuapp.com/">
-                <img src="p22.jpg" alt=""></a>
+            
+                <img src="p22.jpg" alt="">
             </div>
         </div>
     </section>
@@ -82,6 +83,7 @@
                 <div class="info3_text">
                     <h1>Apatsara Piromto</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
+                    <a href="https://apatsara.herokuapp.com/"><button>...Click...</button><br></a>
                 </div>
                 <img src="p33.jpg" alt="">
             </div>
@@ -94,6 +96,7 @@
                 <div class="info4_text">
                     <h1>Worapon Boontawee</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
+                    <a href="https://phazanicwebtech.herokuapp.com/"><button>...Click...</button><br></a>
                 </div>
                 <a href="phai.html">
                 <img src="p44.jpg" alt=""></a>
@@ -128,7 +131,7 @@
 
 
     <footer>
-        <p>Copyright &copy; 2017 | YourName</p>
+        <p>Copyright &copy; 2020 | Hovercraft</p>
     </footer>
     
 </body>
