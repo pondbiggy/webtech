@@ -126,7 +126,7 @@
 
     <section class="contact">
         <div class="container">
-            <div class="circleScaleBtn">
+            <div class="pulseBtn">
                 <h1>Contact Us</h1>
                 <form>
                    
@@ -135,6 +135,8 @@
             </div>
         </div>
     </section>
+
+
 
     <footer>
         <p>Copyright &copy; 2017 | YourName</p>
