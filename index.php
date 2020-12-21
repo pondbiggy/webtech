@@ -2,9 +2,9 @@
 <html lang='th'> 
   <head>
   <style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
+body {background-color: #00ff80;}
+h1   {color: black;}
+p    {color: #99c2ff;}
 </style>
 </head>
 <body>
