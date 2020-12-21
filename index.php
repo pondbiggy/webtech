@@ -55,7 +55,7 @@
                 <img src="p11.jpg" alt="">
                 <div class="info1_text">
                     <h1>Jiraphat Thongyoo</h1>
-                    <p>620710040<br>Data Science</p>
+                    <p>620710040<br>Data Science<br>SU76 SC48 DS2</p>
                     <a href="https://beewebtech.herokuapp.com/"><button>...Click...</button><br></a>
                 </div>
             </div>
@@ -67,7 +67,7 @@
             <div class="info2_area">
                 <div class="info2_text">
                     <h1>Phanthipha Makchiao</h1>
-                    <p>620710161<br>Data Science</p>
+                    <p>620710161<br>Data Science<br>SU76 SC48 DS2</p>
              
                     <a href="bee.html"><button>...Click...</button><br></a>
                 </div>
@@ -82,7 +82,7 @@
             <div class="info3_area">
                 <div class="info3_text">
                     <h1>Apatsara Piromto</h1>
-                    <p>620710162<br>Data Science</p>
+                    <p>620710162<br>Data Science<br>SU76 SC48 DS2</p>
                     <a href="jib.html"><button>...Click...</button><br></a>
                 </div>
                 <img src="p33.jpg" alt="">
@@ -95,7 +95,7 @@
             <div class="info4_area">
                 <div class="info4_text">
                     <h1>Worapon Boontawee</h1>
-                    <p>620710742<br>Data Science</p>
+                    <p>620710742<br>Data Science<br>SU76 SC48 DS2</p>
                     <a href="https://phazanicwebtech.herokuapp.com/"><button>...Click...</button><br></a>
                 </div>
                 <a href="phai.html">
