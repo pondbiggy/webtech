@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Members Group</title>
+    <link rel="stylesheet" href="css/style.css">
 
   
 
@@ -22,10 +23,16 @@
                     <a href="#">Home</a>
                 </li>
                 <li>
-                    <a href="#">About</a>
+                    <a href="#">Member1</a>
                 </li>
                 <li>
-                    <a href="#">Contact</a>
+                    <a href="#">Member2</a>
+                </li>
+                <li>
+                    <a href="#">Member3</a>
+                </li>
+                <li>
+                    <a href="#">Member4</a>
                 </li>
             </ul>
         </div>
