@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Members Group</title>
+    <title>Hovercraft</title>
     <link rel="stylesheet" href="style.css">
 
   
@@ -44,7 +44,7 @@
         <div class="container">
             <div class="header_area">
                 <h1>Welcome to <br>Hovercraft Group</h1>
-                <p>DS-WebTechnology63</p>
+                <p>DS-WebTechnology 63</p>
             </div>
         </div>
     </header>

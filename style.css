@@ -103,17 +103,17 @@ body {
 .info1_area button {
     padding: 10px;
     width: 90px;
-    background: #fff;
-    color: #333;
+    background: #333;
+    color: #fff;
     border: 2px solid transparent;
     text-transform: uppercase;
     transition: all 0.3s ease;
     cursor: pointer;
 }
 .info1_area button:hover {
-    background: #333;
-    color: #fff;
-    border: 2px solid #fff;
+    background: #fff;
+    color: #333;
+    border: 2px solid #333;
 }
 
 .info2 {
@@ -224,17 +224,17 @@ body {
 .info4_area button {
     padding: 10px;
     width: 90px;
-    background: #fff;
-    color: #333;
+    background: #333;
+    color: #fff;
     border: 2px solid transparent;
     text-transform: uppercase;
     transition: all 0.3s ease;
     cursor: pointer;
 }
 .info4_area button:hover {
-    background: #333;
-    color: #fff;
-    border: 2px solid #fff;
+    background: #fff;
+    color: #333;
+    border: 2px solid #333;
 }
 
 .contact {
@@ -323,7 +323,7 @@ body {
 
 
 footer {
-    background: #333;
+    background: #BEBEBE;
     margin-top: 60px;
     padding: 20px;
     text-align: center;
