@@ -43,7 +43,7 @@
     <header class="header">
         <div class="container">
             <div class="header_area">
-                <h1>Welcome to Hovercraft Group</h1>
+                <h1>Welcome to <br>Hovercraft Group</h1>
                 <p>DS-WebTechnology63</p>
             </div>
         </div>

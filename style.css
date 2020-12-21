@@ -100,6 +100,21 @@ body {
     margin: 0;
     font-weight: normal;
 }
+.info1_area button {
+    padding: 10px;
+    width: 90px;
+    background: #fff;
+    color: #333;
+    border: 2px solid transparent;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.info1_area button:hover {
+    background: #333;
+    color: #fff;
+    border: 2px solid #fff;
+}
 
 .info2 {
     width: 100%;
@@ -165,6 +180,21 @@ body {
     margin: 0;
     font-weight: normal;
 }
+.info3_area button {
+    padding: 10px;
+    width: 90px;
+    background: #fff;
+    color: #333;
+    border: 2px solid transparent;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.info3_area button:hover {
+    background: #333;
+    color: #fff;
+    border: 2px solid #fff;
+}
 
 .info4 {
     width: 100%;
@@ -190,6 +220,21 @@ body {
 .info4_area h1 {
     margin: 0;
     font-weight: normal;
+}
+.info4_area button {
+    padding: 10px;
+    width: 90px;
+    background: #fff;
+    color: #333;
+    border: 2px solid transparent;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.info4_area button:hover {
+    background: #333;
+    color: #fff;
+    border: 2px solid #fff;
 }
 
 .contact {
