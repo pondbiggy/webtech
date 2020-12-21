@@ -67,7 +67,8 @@
                 <div class="info2_text">
                     <h1>Phanthipha Makchiao</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
-                    <a href="https://beewebtech.herokuapp.com/"><button></button><br></a>
+                    <div class="pulseBtn">
+                    <a href="https://beewebtech.herokuapp.com/"><button>...Click...</button><br></a></div>
                 </div>
                 <a href="https://beewebtech.herokuapp.com/">
                 <img src="p22.jpg" alt=""></a>
@@ -123,18 +124,6 @@
 
 
 
-
-    <section class="contact">
-        <div class="container">
-            <div class="pulseBtn">
-                <h1>Contact Us</h1>
-                <form>
-                   
-                    <button>send</button><br>
-                </form>
-            </div>
-        </div>
-    </section>
 
 
 
