@@ -67,7 +67,7 @@
                 <div class="info2_text">
                     <h1>Phanthipha Makchiao</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
-                    <a href="https://beewebtech.herokuapp.com/"><button>send</button><br></a>
+                    <a href="https://beewebtech.herokuapp.com/"><button></button><br></a>
                 </div>
                 <a href="https://beewebtech.herokuapp.com/">
                 <img src="p22.jpg" alt=""></a>
@@ -115,6 +115,21 @@
                     <input type="text" placeholder="Your Subject"><br>
                     <label>Your Message</label><br>
                     <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea><br>
+                    <button>send</button><br>
+                </form>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <section class="contact">
+        <div class="container">
+            <div class="circleScaleBtn">
+                <h1>Contact Us</h1>
+                <form>
+                   
                     <button>send</button><br>
                 </form>
             </div>
