@@ -126,6 +126,21 @@ body {
     margin: 0;
     font-weight: normal;
 }
+.info2_area button {
+    padding: 10px;
+    width: 90px;
+    background: #333;
+    color: #fff;
+    border: 2px solid transparent;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.info2_area button:hover {
+    background: #fff;
+    color: #333;
+    border: 2px solid #333;
+}
 
 
 .info3 {
