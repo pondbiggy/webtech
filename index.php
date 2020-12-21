@@ -45,7 +45,7 @@
     <section class="info1">
         <div class="container">
             <div class="info1_area">
-                <img src="pic1.png" alt="">
+                <img src="img/pic1.png" alt="">
                 <div class="info1_text">
                     <h1>We working with performance</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
@@ -61,7 +61,7 @@
                     <h1>We working with performance</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
                 </div>
-                <img src="pic2.png" alt="">
+                <img src="img/pic2.png" alt="">
             </div>
         </div>
     </section>
