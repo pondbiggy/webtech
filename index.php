@@ -29,7 +29,7 @@
                     <a href="https://beewebtech.herokuapp.com/">Bee</a>
                 </li>
                 <li>
-                    <a href="https://apatsara.herokuapp.com/">Jib</a>
+                    <a href="jib.html">Jib</a>
                 </li>
                 <li>
                     <a href="https://phazanicwebtech.herokuapp.com/">Phai</a>
@@ -83,7 +83,7 @@
                 <div class="info3_text">
                     <h1>Apatsara Piromto</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
-                    <a href="https://apatsara.herokuapp.com/"><button>...Click...</button><br></a>
+                    <a href="jib.html"><button>...Click...</button><br></a>
                 </div>
                 <img src="p33.jpg" alt="">
             </div>

@@ -78,29 +78,30 @@ body {
 }
 
 
-.info1 {
+
+.info3 {
     width: 100%;
     height: 400px;
 }
-.info1_area {
+.info3_area {
     color: #333;
 }
-.info1_area img {
+.info3_area img {
     margin-top: 80px;
     float: left;
 }
-.info1_text {
+.info3_text {
     text-align: center;
     width: 460px;
     float: left;
     margin-left: 70px;
     margin-top: 140px;
 }
-.info1_area h1 {
+.info3_area h1 {
     margin: 0;
     font-weight: normal;
 }
-.info1_area button {
+.info3_area button {
     padding: 10px;
     width: 90px;
     background: #333;
@@ -110,7 +111,7 @@ body {
     transition: all 0.3s ease;
     cursor: pointer;
 }
-.info1_area button:hover {
+.info3_area button:hover {
     background: #fff;
     color: #333;
     border: 2px solid #333;
@@ -118,7 +119,7 @@ body {
 
 .info2 {
     width: 100%;
-    height: 350px;
+    height: 4000px;
     background: #333;
 }
 .info2_area {
@@ -198,7 +199,7 @@ body {
 
 .info4 {
     width: 100%;
-    height: 350px;
+    height: 400px;
     background: #333;
 }
 .info4_area {
@@ -236,6 +237,10 @@ body {
     color: #fff;
     border: 2px solid #fff;
 }
+
+
+
+
 
 .contact {
     width: 100%;
