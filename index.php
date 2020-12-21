@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Members Group</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 
   
 
@@ -23,16 +23,16 @@
                     <a href="#">Home</a>
                 </li>
                 <li>
-                    <a href="#">Member1</a>
+                    <a href="#">Ball</a>
                 </li>
                 <li>
-                    <a href="#">Member2</a>
+                    <a href="#">Bee</a>
                 </li>
                 <li>
-                    <a href="#">Member3</a>
+                    <a href="#">Jib</a>
                 </li>
                 <li>
-                    <a href="#">Member4</a>
+                    <a href="#">Phai</a>
                 </li>
             </ul>
         </div>
@@ -52,7 +52,7 @@
     <section class="info1">
         <div class="container">
             <div class="info1_area">
-                <img src="img/pic1.png" alt="">
+                <img src="p11.jpg" alt="">
                 <div class="info1_text">
                     <h1>Jiraphat Thongyoo</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
@@ -68,7 +68,7 @@
                     <h1>Phanthipha Makchiao</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
                 </div>
-                <img src="img/pic2.png" alt="">
+                <img src="p22.jpg" alt="">
             </div>
         </div>
     </section>
@@ -80,7 +80,7 @@
                     <h1>Apatsara Piromto</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
                 </div>
-                <img src="img/pic2.png" alt="">
+                <img src="p33.jpg" alt="">
             </div>
         </div>
     </section>
@@ -92,7 +92,8 @@
                     <h1>Worapon Boontawee</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
                 </div>
-                <img src="img/pic2.png" alt="">
+                <a href="phai.html">
+                <img src="p44.jpg" alt=""></a>
             </div>
         </div>
     </section>
@@ -117,7 +118,6 @@
             </div>
         </div>
     </section>
-
 
     <footer>
         <p>Copyright &copy; 2017 | YourName</p>
