@@ -47,7 +47,7 @@
             <div class="info1_area">
                 <img src="img/pic1.png" alt="">
                 <div class="info1_text">
-                    <h1>We working with performance</h1>
+                    <h1>Jiraphat Thongyoo</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
                 </div>
             </div>
@@ -58,7 +58,31 @@
         <div class="container">
             <div class="info2_area">
                 <div class="info2_text">
-                    <h1>We working with performance</h1>
+                    <h1>Phanthipha Makchiao</h1>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
+                </div>
+                <img src="img/pic2.png" alt="">
+            </div>
+        </div>
+    </section>
+
+    <section class="info3">
+        <div class="container">
+            <div class="info3_area">
+                <div class="info3_text">
+                    <h1>Apatsara Piromto</h1>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
+                </div>
+                <img src="img/pic2.png" alt="">
+            </div>
+        </div>
+    </section>
+
+    <section class="info4">
+        <div class="container">
+            <div class="info4_area">
+                <div class="info4_text">
+                    <h1>Worapon Boontawee</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
                 </div>
                 <img src="img/pic2.png" alt="">
